@@ -1,2 +1,2 @@
-# github-example
+# github-ex
 Testing rep.
